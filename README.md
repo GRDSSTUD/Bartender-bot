@@ -9,3 +9,7 @@ Cocktail recommendation - based on leading questions.
 Best fit based on ingredients - ask for available ingredients - recommend best fit.
 Cocktails Quiz. Guess the  ingredients based on a random cocktail name.
 Specific cocktail search - search cocktail by partial name - find closest fit.
+
+link to notebook:
+
+https://github.com/GRDSSTUD/Bartender-bot/blob/main/Basic%20Bartender%20bot.ipynb
